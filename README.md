@@ -33,3 +33,5 @@ Nếu bạn thực sự nghiêm túc muốn đi theo con đường trở thành 
  Code không chỉ cho máy đọc! Mà còn cả con người nữa hãy coi trọng người đọc vì
  tương lai người đọc code của bạn rất có thể là chính bạn.
 ```
+## Note: 
+- Mình cũng đã làm một video giới thiệu các bạn có thể  thấy ở [đây](https://youtu.be/nZaAe4Xtpds)

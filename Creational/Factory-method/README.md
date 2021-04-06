@@ -13,3 +13,5 @@
 ## Tài liệu các bạn nên tham khảo thêm
 - https://refactoring.guru/design-patterns/factory-method
 - https://www.tutorialspoint.com/design_pattern/factory_pattern.htm
+## Note: 
+- Bên trên là phần lý thuyết ví dụ và thực hành các bạn có thể  thấy ở [đây](https://youtu.be/HjBPCCdDHPo)
