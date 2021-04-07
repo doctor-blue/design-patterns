@@ -13,8 +13,7 @@ Nếu bạn thực sự nghiêm túc muốn đi theo con đường trở thành 
 ## Phân loại Design Patterns
 - Trong cuốn sách Design Patterns – Elements of Reusable Object-Oriented Software - của 4 tác giả Erich Gamma, Richard Helm, Ralph Johnson và John Vlissides có 23 mẫu được định nghĩa  bên trong và chia thành 3 nhóm.
 ### Creational Patterns (Nhóm khởi tạo)
-- Bao gồm 5 mẫu : 
-- [Factory Method](https://github.com/doctor-blue/design-patterns/tree/master/Creational/Factory-method), 
+- Bao gồm 5 mẫu : [Factory Method](https://github.com/doctor-blue/design-patterns/tree/master/Creational/Factory-method), 
 [Abstract Factory](https://github.com/doctor-blue/design-patterns/tree/master/Creational/Abstract-factory-method), 
 [Builder](https://github.com/doctor-blue/design-patterns/tree/master/Creational/Builder), 
 Prototype,
