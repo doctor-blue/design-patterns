@@ -16,3 +16,6 @@
 ## Tài liệu các bạn nên tham khảo thêm
 - https://sourcemaking.com/design_patterns/abstract_factory
 - https://refactoring.guru/design-patterns/abstract-factory
+
+## Note
+- Bên trên là phần lý thuyết ví dụ và thực hành các bạn có thể  thấy ở [đây](https://youtu.be/bvmy8i_2rEA)
