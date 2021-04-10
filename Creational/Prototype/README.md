@@ -8,7 +8,7 @@
 ## Các thành phần của Prototype
 - Prototype : khai báo một class, interface hoặc abtract class cho việc clone chính nó.
 - ConcretePrototype: class sẽ kế thừa Prototype và thực thi nhân bản chính bản thân nó cụ thể tại hàm clone(). Tất nhiên việc clone không cần thiết nếu tại Prototype chúng ta đã thực hiện clone chính nó rồi (với Prototype là class).
-Client: Đại diện cho nơi sử dụng hay nơi gọi clone một object.
+- Client: Đại diện cho nơi sử dụng hay nơi gọi clone một object.
 
 ## Note
 -  Các bạn nên tìm hiểu thêm về  Clone object sử dụng interface Cloneable, tất nhiên mình cũng sẽ nói tổng quan về interface này trong video.
