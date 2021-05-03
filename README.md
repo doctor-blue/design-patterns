@@ -23,14 +23,17 @@ Nếu bạn thực sự nghiêm túc muốn đi theo con đường trở thành 
 - Bao gồm 7 mẫu :
 [Adapter](https://github.com/doctor-blue/design-patterns/tree/master/Structural/Adapter), 
 Bridge, 
-Composite, 
+[Composite](https://github.com/doctor-blue/design-patterns/tree/master/Structural/Composite),
 Decorator, 
-Facade, 
+[Facade](https://github.com/doctor-blue/design-patterns/tree/master/Structural/Facade), 
 Flyweight và 
-Proxy.
+[Proxy](https://github.com/doctor-blue/design-patterns/tree/master/Structural/Proxy).
 - Giúp ta thiết lập mối quan hệ giữa các đối tượng với nhau.
 ### Behavioral Patterns (Nhóm tương tác)
-- Bao gồm 11 mẫu: Interpreter, Template Method, Chain of Responsibility, Command, Iterator, Mediator, Memento, Observer, State, Strategy và Visitor
+- Bao gồm 11 mẫu: Interpreter, Template Method, Chain of Responsibility, 
+[Command](https://github.com/doctor-blue/design-patterns/tree/master/Behavior/Command), 
+[Iterator](https://github.com/doctor-blue/design-patterns/tree/master/Behavior/Iterator), 
+Mediator, Memento, Observer, State, Strategy và Visitor
 - Cung cấp giải pháp để thực hiện các hành vi của đối tượng cũng như giữa các object với nhau.
 ## Note : Nếu các bạn muốn học Design Pattern tốt nhất các bạn cần nắm chắc được những kiến thức sau.
 - Lập trình hướng đối tượng cơ bản nhất : hiểu đối tượng là gì? thuộc tính, hàm ...
